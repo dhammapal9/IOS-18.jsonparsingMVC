@@ -1,0 +1,6 @@
+framework module Pods_13JsonParsingtoTable {
+  umbrella header "Pods-13JsonParsingtoTable-umbrella.h"
+
+  export *
+  module * { export * }
+}
